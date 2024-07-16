@@ -1,0 +1,3 @@
+-  Hi, I’m Ahmadreza Khatamian
+-  I’m interested in programming, linux & open source software
+-  I’m currently learning Python
